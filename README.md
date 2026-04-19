@@ -16,7 +16,7 @@
 | **Nama** | Muhammad Fahriel |
 | **NIM** | 2509116050 |
 | **Mata Kuliah** | Analisis dan Visualisasi Data |
-| **Tugas** | UTS — Exploratory Data Analysis |
+| **Tugas** | UTS - Exploratory Data Analysis |
 | **Platform** | Google Colab |
 
 ---
@@ -340,39 +340,7 @@ Temuan-temuan ini memiliki relevansi penting tidak hanya dari perspektif histori
 
 ---
 
-## 8. Cara Menjalankan
-
-### Prasyarat
-
-- Akun Google dengan akses ke Google Drive dan Google Colab
-- File dataset `memory_prices_updated.csv` tersimpan di Google Drive
-
-### Langkah-Langkah
-
-1. **Clone repository ini:**
-   ```bash
-   git clone https://github.com/username/uts-avd-fahriel.git
-   ```
-
-2. **Upload dataset ke Google Drive:**
-   Simpan file `memory_prices_updated.csv` di path berikut:
-   ```
-   MyDrive/dataset/memory_prices_updated.csv
-   ```
-
-3. **Buka notebook di Google Colab:**
-   - Kunjungi [Google Colab](https://colab.research.google.com)
-   - Upload atau buka file `UTS_AVD_Muhammad_Fahriel.ipynb`
-
-4. **Jalankan seluruh cell secara berurutan:**
-   - Klik `Runtime` → `Run all`
-   - Pastikan Google Drive berhasil di-mount sebelum cell berikutnya berjalan
-
-5. **Lihat output dan visualisasi** yang dihasilkan di setiap section notebook.
-
----
-
-## 9. Struktur Repository
+## 8. Struktur Repository
 
 ```
 uts-avd-fahriel/
@@ -383,11 +351,9 @@ uts-avd-fahriel/
     └── memory_prices_updated.csv      # Dataset (upload secara terpisah dari Kaggle)
 ```
 
-> **Catatan:** Dataset tidak disertakan langsung di repository. Unduh dari Kaggle dan simpan sesuai path yang ditentukan di atas.
-
 ---
 
 <p align="center">
   Dibuat untuk memenuhi tugas UTS Mata Kuliah Analisis dan Visualisasi Data<br>
-  <strong>Muhammad Fahriel — NIM 2509116050</strong>
+  <strong>Muhammad Fahriel - NIM 2509116050</strong>
 </p>
