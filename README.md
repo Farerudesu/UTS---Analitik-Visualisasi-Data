@@ -36,8 +36,7 @@
    - [5.6 Identifikasi Pola dan Insight](#56-identifikasi-pola-dan-insight)
 6. [Hasil dan Temuan](#6-hasil-dan-temuan)
 7. [Kesimpulan](#7-kesimpulan)
-8. [Cara Menjalankan](#8-cara-menjalankan)
-9. [Struktur Repository](#9-struktur-repository)
+8. [Struktur Repository](#8-struktur-repository)
 
 ---
 
