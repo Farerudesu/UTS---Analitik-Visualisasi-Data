@@ -344,10 +344,9 @@ Temuan-temuan ini memiliki relevansi penting tidak hanya dari perspektif histori
 ```
 uts-avd-fahriel/
 │
-├── UTS_AVD_Muhammad_Fahriel.ipynb    # Notebook utama (Google Colab)
-├── README.md                          # Dokumentasi proyek (file ini)
-└── dataset/
-    └── memory_prices_updated.csv      # Dataset (upload secara terpisah dari Kaggle)
+├── UTS_AVD_Muhammad_Fahriel.ipynb 
+├── README.md
+└── memory_prices_updated.csv      
 ```
 
 ---
