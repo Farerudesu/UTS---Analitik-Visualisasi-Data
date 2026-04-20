@@ -1,0 +1,439 @@
+year,day_month,Company,Size in Kbyte,Cost in USD,Speed in nanosec,Memory Type,Ref,Page,JDR Chip Prices - Size Kbit,JDR Chip Prices - USD,JDR Chip Prices - nanosec
+1957,,C.C.C.,0.000976563,392,10000,Flip-Flop transistor,Phister 366,366,,,
+1959,,E.E.Co.,0.000976563,64.8,10000,Flip-Flop - vacuum tube,Phister 366,366,,,
+1960,,IBM,0.000976563,5,11500,Core memory for IBM 1401,Phister 367,367,,,
+1965,,IBM,0.000976563,2.52,2000,Core Memory for IBM 360/30,Phister 367,367,,,
+1970,,IBM,0.000976563,0.7,770,Core Memory for IBM 370/135,Phister 367,367,,,
+1973,Jan,DEC,12,4680,,Core memory 8Kwords x 12 bit,PDP8/e User Price List,,,,
+1974,,IBM,0.000976563,0.3,800,IC Memory for IBM 370/125,Phister 367,367,,,
+1975,Jan,MITS,0.25,103,1000,Altair 8800 256 Byte Static Board,Radio-Electronics,,,,
+1975,Feb,MITS,1,176,,Altair 1K Static Board,,,,,
+1975,Apr,MITS,4,264,,Altair 4K DRAM Board,,,,,
+1975,Oct,MITS,4,195,,Altair 4K Static (2102) RAM Board,,,,,
+1976,Jan,MITS,4,159,,Altair 4K Static (2102) RAM Board,,,,,
+1976,Mar,MITS,16,765,,Altair 16K Static RAM Board,,,,,
+1976,Jun,SD Sales,4,90,,SD Sales 4K Static Board,,,,,
+1976,Aug,,8,250,,8K Static RAM Board,,,,,
+1977,Feb,TDL,16,575,,S-100 16K,,,,,
+1978,Mar,,64,1750,,S-100 64K,,,,,
+1978,Apr,,16,460,,,,,,,
+1978,May,,16,300,,,,,,,
+1978,Jul,Extensis,64,1500,,,,,,,
+1978,Aug,,8,125,,,,,,,
+1978,Oct,,32,475,,,,,,,
+1979,Jan,,32,329,,,Interface Age,124,,,
+1979,Oct,SD Sales - Jade,64,419,,"S-100, SD Sales/Jade 64K Kit",,,,,
+1980,Jan,,64,405,,,Interface Age,121,,,
+1981,Jan,,64,550,,,Interface Age,141,,,
+1981,Aug,Jade,64,279.95,,,,,,,
+1982,Jan,,256,880,,,Interface Age,135,,,
+1982,Mar,,64,279,,,Microsystems,,,,
+1982,Sep,California Digital,256,495,,,BYTE,,,,
+1983,Jan,,256,599,,,Interface Age,153,,,
+1983,Sep,California Digital,256,495,,,BYTE,,,,
+1984,Jan,,384,517,,,BYTE,64,,,
+1984,Aug,Advanced Computer Products,384,499,,"IBM PC Board, 384K, $199+6*50",BYTE,467,256,79,
+1985,Jan,Do Kay,512,440,,IBM 512K $199.95+8*29.97,BYTE,470,,,
+1985,May,Do Kay,512,360,,IBM 512K $199.95+8*19.98,BYTE,507,,8.95,
+1985,Jun,Do Kay,512,275,,IBM 512K $149+8*15.75,BYTE,505,,5.95,200
+1985,Jul,Fortron,512,210,,IBM 512K $119+7*13,BYTE,435,,5.95,200
+1985,Aug,Jade,2048,699,,2MB J-RAM-2 A&T $699,BYTE,418,256,3.95,200
+1985,Sep,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,444,256,2.95,200
+1985,Nov,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,200
+1985,Dec,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,200
+1986,Jan,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,150
+1986,Feb,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,150
+1986,Mar,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,150
+1986,Apr,Jade,2048,599,,2MB J-RAM-2 A&T $599,BYTE,,256,2.95,150
+1986,May,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Jun,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Jul,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Aug,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Sep,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Oct,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1986,Dec,JDR,3072,568.5,,JDR AT Multifuntion $199.95+49.95+318.60,BYTE,,256,2.95,150
+1987,Jan,JDR,3072,528.5,,JDR AT Multifuntion $139.95+49.95+3*36*2.95,BYTE,477,256,2.95,150
+1987,Feb,JDR,3072,528.5,,JDR AT Multifuntion $139.95+49.95+3*36*2.95,BYTE,,256,2.95,150
+1987,Mar,Pine,3072,471,,Pine 3MB Multifunction $147+108*3,BYTE,383,256,2.95,150
+1987,Apr,JDR,4096,614.7,,JDR MCT-ATRAM 4MB $149.95+39.95+4*36*2.95,BYTE,,256,2.95,150
+1987,May,JDR,4096,614.7,,JDR MCT-ATRAM 4MB $149.95+39.95+4*36*2.95,BYTE,,256,2.95,150
+1987,Jun,JDR,4096,614.7,,JDR MCT-ATRAM 4MB $149.95+39.95+4*36*2.95,BYTE,,256,2.95,150
+1987,Jul,JDR,4096,614.7,,JDR MCT-ATRAM 4MB $149.95+39.95+4*36*2.95,BYTE,,256,2.95,150
+1987,Aug,JDR,4096,614.7,,JDR MCT-ATRAM 4MB $149.95+39.95+4*36*2.95,BYTE,,256,2.95,150
+1987,Sep,JDR,3072,488.47,,JDR MCT-ATMF 3MB Multifunction,BYTE,,256,2.95,150
+1987,Oct,Advanced Computer Products,3072,399,,AST Advantage AT w/3MB,BYTE,322,256,2.95,150
+1987,Nov,JDR,3072,488.47,,JDR MCT-ATMF 3MB Multifunction,BYTE,,256,2.95,150
+1987,Dec,JDR,3072,488.47,,JDR MCT-ATMF 3MB Multifunction,BYTE,,256,2.95,150
+1988,Jan,JDR,3072,488.47,,JDR MCT-ATMF 3MB Multifunction,BYTE,,256,2.95,150
+1988,Feb,JDR,3072,546.82,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*3.49,BYTE,,256,3.49,150
+1988,Mar,JDR,3072,596.5,,JDR MCT-ATMF 3MB Multifunc $169.90+426.60,BYTE,,256,3.95,150
+1988,May,JDR,3072,596.5,,JDR MCT-ATMF 3MB Multifunc $169.90+426.60,BYTE,,256,3.95,150
+1988,Jun,JDR,3072,596.5,,JDR MCT-ATMF 3MB Multifunc $169.90+426.60,BYTE,,256,3.95,150
+1988,Jul,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1988,Aug,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1988,Sep,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1988,Oct,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1988,Nov,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1988,Dec,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1989,Jan,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1989,Feb,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1989,Mar,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1989,Apr,JDR,3072,1514.5,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*12.45,BYTE,,256,12.45,150
+1989,Jun,JDR,3072,1032.82,,JDR MCT-ATMF 3MB Multifunc $169.90+3*36*7.99,BYTE,,1024,24.95,120
+1989,Jul,Unitex,4096,789,,Unitex RAMII-EMS - 4MB $249+36*15.00,BYTE,316,1024,19.95,120
+1989,Aug,Unitex,4096,753,,Everex RAM II 4M-EMS $249+36*14.,BYTE,302,1024,19.95,120
+1989,Sep,Unitex,4096,753,,Everex RAM II 4M-EMS $249+36*14.,BYTE,,1024,13.95,120
+1989,Oct,Unitex,8192,1023,,Bocaram AT 8MB - $159+72*12,BYTE,340,1024,13.95,120
+1989,Nov,Unitex,10240,1169,,"Everex RAM 10,000 10MB $179+90*11.",BYTE,,1024,13.95,120
+1989,Dec,Unitex,8192,905,,Bocaram AT 8MB - $149+72*10.50,BYTE,,1024,11.95,120
+1990,Jan,Unitex,8192,851,,Bocaram AT 8MB - $149+72*9.75,BYTE,,1024,11.95,120
+1990,Mar,Unitex,8192,786,,Bocaram AT 8MB - $149+72*8.50,BYTE,,1024,11.95,120
+1990,May,Unitex,8192,786,,Bocaram AT 8MB - $149+72*8.50,BYTE,,1024,11.95,120
+1990,Jun,Unitex,8192,716,,Bocaram AT 8MB - $140+72*8.00,BYTE,,1024,11.95,120
+1990,Jul,Unitex,8192,662,,Bocaram AT 8MB - $140+72*7.25,BYTE,,1024,11.95,120
+1990,Aug,Nevada,8192,649,,Bocaram AT Plus 8MB - $649,BYTE,,1024,11.95,120
+1990,Sep,,8192,572,,Bocaram AT Plus 8MB - $140+72*6.00,BYTE,488,1024,11.95,120
+1990,Oct,IC Express,1024,59,80,1Mx9-80 SIMM @ $59,BYTE,343,1024,11.95,120
+1990,Nov,IC Express,1024,51,80,1Mx9-80 SIMM @ $51,BYTE,453,1024,11.95,120
+1990,Dec,IC Express,1024,45.5,80,1Mx9-80 SIMM @ $45.50,BYTE,388,1024,7.95,120
+1991,Jan,IC Express,1024,44.5,80,1Mx9-80 SIMM @ $44.50,BYTE,393,1024,7.95,120
+1991,Feb,IC Express,1024,44.5,80,1Mx9-80 SIMM @ $44.50,BYTE,335,1024,7.95,120
+1991,Mar,AMT International,1024,45,100,1Mx9-100 SIMM @ $45,BYTE,374,1024,7.95,120
+1991,Apr,AMT International,1024,45,100,1Mx9-100 SIMM @ $45,BYTE,373,1024,7.95,120
+1991,May,AMT International,1024,45,100,1Mx9-100 SIMM @ $45,BYTE,356,1024,7.95,120
+1991,Jun,IC Express,4096,175,80,4Mx9-80 SIMM @ $175,BYTE,398,1024,6.89,120
+1991,Jul,IC Express,4096,175,80,4Mx9-80 SIMM @ $175,BYTE,333,1024,6.89,120
+1991,Aug,IC Express,4096,165,80,4Mx9-80 SIMM @ $165,BYTE,321,1024,6.89,120
+1991,Sep,Microprocessors Internatinal,4096,185,80,4Mx9-80 SIMM @ $185,BYTE,375,1024,6.95,100
+1991,Oct,Microprocessors Internatinal,4096,180,80,4Mx9-80 SIMM @ $180,BYTE,306,1024,6.95,100
+1991,Nov,Nevada,4096,159,80,4Mx9-80 SIMM @ $159,BYTE,401,1024,5.49,100
+1991,Dec,Nevada,4096,159,80,4Mx9-80 SIMM @ $159,BYTE,316,1024,5.49,100
+1992,Jan,AMT International,4096,145,80,4Mx9-80 SIMM @ $145,BYTE,380,1024,5.49,100
+1992,Feb,AMT International,4096,145,80,4Mx9-80 SIMM @ $145,BYTE,316,1024,5.49,100
+1992,Mar,AMT International,4096,145,80,4Mx9-80 SIMM @ $145,BYTE,332,36864,179.95,80
+1992,Apr,Sii Micros,4096,139,,4Mx9-?? SIMM @ $139,BYTE,318,36864,179.95,80
+1992,May,AMT International,4096,120,80,4Mx9-80 SIMM @ $120,BYTE,342,36864,179.95,80
+1992,Jun,AmRam,4096,130,80,4Mx9-80 SIMM @ $130,BYTE,406,36864,179.95,80
+1992,Jul,AmRam,4096,134,80,4Mx9-80 SIMM @ $134,BYTE,351,36864,179.95,80
+1992,Aug,Worldwide,4096,124,70,4Mx9-70 SIMM @ $124,BYTE,324,9216,39.95,100
+1992,Sep,AMT International,4096,110,80,4Mx9-80 SIMM @ $110,BYTE,350,9216,39.95,100
+1992,Oct,AMT International,4096,105,80,4Mx9-80 SIMM @ $105,BYTE,321,36864,149.95,80
+1992,Nov,AMT International,4096,105,80,4Mx9-80 SIMM @ $105,BYTE,346,36864,149.95,80
+1992,Dec,AMT International,4096,105,80,4Mx9-80 SIMM @ $105,BYTE,302,36864,149.95,80
+1993,Jan,Cititronics,16384,529,,4Mx36-?? SIMM @ $526,BYTE,307,36864,149.95,80
+1993,Feb,Memory Superstore,4096,110,70,4Mx9-70 SIMM @ $110,BYTE,269,36864,149.95,80
+1993,Mar,Memory Superstore,4096,110,70,4Mx9-70 SIMM @ $110,BYTE,239,36864,149.95,80
+1993,Apr,Memory Superstore,4096,110,70,4Mx9-70 SIMM @ $110,BYTE,245,36864,149.95,80
+1993,May,Memory Superstore,4096,110,70,4Mx9-70 SIMM @ $110,BYTE,263,36864,149.95,80
+1993,Jun,AMT International,1024,30,100,1Mx9-100 SIMM @ $30,BYTE,249,36864,149.95,80
+1993,Jul,AMT International,1024,30,100,1Mx9-100 SIMM @ $30,BYTE,266,36864,149.95,80
+1993,Aug,AMT International,1024,30,100,1Mx9-100 SIMM @ $30,BYTE,245,36864,149.95,80
+1993,Sep,AMT International,1024,30,100,1Mx9-100 SIMM @ $30,BYTE,267,36864,149.95,80
+1993,Oct,LA Trade,4096,144,80,4Mx9-80 SIMM @ $144,BYTE,260,36864,159.95,80
+1993,Nov,First Source International,4096,159,70,4Mx9-70 SIMM @ $159,BYTE,360,36864,159.95,80
+1993,Dec,West Coast Micro,4096,143,70,4Mx3x3-70 SIMM @ $143,BYTE,280,36864,159.95,80
+1994,Jan,West Coast Micro,4096,143,70,4Mx3x3-70 SIMM @ $143,BYTE,290,36864,159.95,80
+1994,Feb,West Coast Micro,4096,143,70,4Mx3x3-70 SIMM @ $143,BYTE,250,36864,159.95,80
+1994,Mar,Nevada,4096,144,80,4Mx9-80 SIMM @ $144,BYTE,251,36864,159.95,80
+1994,Apr,La Trade,4096,149,80,4Mx9-80 SIMM @ $149,BYTE,270,36864,154.95,80
+1994,May,La Trade,4096,149,80,4Mx9-80 SIMM @ $149,BYTE,238,36864,154.95,80
+1994,Jun,La Trade,4096,149,80,4Mx9-80 SIMM @ $149,BYTE,320,36864,169.95,60
+1994,Jul,Nevada,4096,154,80,4Mx9-80 SIMM @ $154,BYTE,239,36864,169.95,60
+1994,Aug,Nevada,1024,37,100,1Mx9-100 SIMM @ $37,BYTE,226,36864,169.95,60
+1994,Sep,Pacific Coast Micro,4096,136,70,4Mx9-70 SIMM @ $136,BYTE,244,36864,169.95,60
+1994,Oct,Pacific Coast Micro,4096,134,70,4Mx9-70 SIMM @ $134,BYTE,259,36864,159.95,70
+1994,Nov,Pacific Coast Micro,4096,129,70,4Mx9-70 SIMM @ $129,BYTE,324,36864,159.95,70
+1994,Dec,Pacific Coast Micro,4096,129,70,4Mx9-70 SIMM @ $129,BYTE,264,36864,159.95,70
+1995,Jan,Nevada,4096,129,80,4Mx9-80 SIMM @ $129,BYTE,256,36864,159.95,70
+1995,Feb,First Source International,4096,128,70,4Mx9-70 SIMM @ $129,BYTE,202,36864,159.95,70
+1995,Mar,First Source International,4096,128,70,4Mx9-70 SIMM @ $129,BYTE,212,36864,159.95,70
+1995,Apr,Pacific Coast Micro,16384,499,70,4Mx36-70 SIMM [72 pin] @ $499,BYTE,254,9216,37.95,80
+1995,May,Pacific Coast Micro,16384,499,70,4Mx36-70 SIMM [72 pin] @ $499,BYTE,222,9216,37.95,80
+1995,Jun,First Source International,16384,498,70,4Mx36-70 SIMM [72 pin] @ $498,BYTE,286,36864,135.29,80
+1995,Jul,Pacific Coast Micro,16384,499,70,4Mx36-70 SIMM [72 pin] @ $499,BYTE,213,147456,619,70
+1995,Aug,Pacific Coast Micro,16384,489,70,4Mx36-70 SIMM [72 pin] @ $489,BYTE,190,147456,619,70
+1995,Sep,Future Micro,16384,529,70,4Mx36-70 SIMM [72 pin] @ $529,BYTE,306,147456,619,70
+1995,Oct,Future Micro,16384,529,70,4Mx36-70 SIMM [72 pin] @ $529,BYTE,214,294912,1199,70
+1995,Nov,First Source International,16384,494,70,4Mx36-70 SIMM [72 pin] @ $494,BYTE,286,294912,1199,70
+1995,Dec,First Source International,16384,494,70,4Mx36-70 SIMM [72 pin] @ $494,BYTE,244,147456,699,70
+1996,Jan,First Source International,16384,478,70,4Mx36-70 SIMM [72 pin] @ $478,BYTE,186,147456,689,70
+1996,Feb,Worldwide,16384,460,70,4Mx36-70 SIMM [72 pin] @ $460,BYTE,217,147456,689,70
+1996,Mar,First Source International,8192,209,70,2Mx36-70 SIMM [72 pin] @ $209,BYTE,170,36864,133.95,70
+1996,Apr,Worldwide,16384,395,70,4Mx36-70 SIMM [72 pin] @ $395,BYTE,196,36864,129.95,70
+1996,May,Worldwide,32768,550,60,8Mx36-60 SIMM [72 pin] @ $550,BYTE,195,,,
+1996,Jun,First Source International,8192,119,70,2Mx36-70 SIMM [72 pin] @ $119,BYTE,186,,,
+1996,Jul,Worldwide,16384,180,60,4Mx32-60 SIMM [72 pin] @ $180,BYTE,180,,,
+1996,Aug,Worldwide,16384,145,60,4Mx36-60 SIMM [72 pin] @ $145,BYTE,164,,,
+1996,Sep,Worldwide,16384,135,60,4Mx36-60 SIMM [72 pin] @ $135,BYTE,192,,,
+1996,Oct,First Source International,16384,128,70,4Mx36-70 SIMM [72 pin] @ $128,BYTE,181,,,
+1996,Nov,First Source International,8192,42,70,2Mx32-70 SIMM [72 pin] @ $42,BYTE,210,,,
+1996,Dec,First Source International,8192,42,70,2Mx32-70 SIMM [72 pin] @ $42,BYTE,177,,,
+1997,Jan,First Source International,8192,37,60,2Mx32-60 SIMM EDO [72 pin] @ $37,BYTE,153,,,
+1997,Feb,Memory On-Line,8192,29,60,2Mx32-60 SIMM EDO [72 pin] @ $29,BYTE,169,,,
+1997,Mar,Memory On-Line,8192,24,60,2Mx32-60 SIMM EDO [72 pin] @ $24,BYTE,167,,,
+1997,Apr,Memory On-Line,8192,24,60,2Mx32-60 SIMM EDO [72 pin] @ $24,BYTE,166,,,
+1997,May,Memory On-Line,8192,24,60,2Mx32-60 SIMM EDO [72 pin] @ $24,BYTE,147,,,
+1997,Jun,Memory On-Line,16384,59,60,4Mx32-60 SIMM EDO [72 pin] @ $59,BYTE,163,,,
+1997,Jul,Miami Int'l,8192,32,70,2Mx32-? SIMM EDO [72 pin] @ $32,Pcmag,401,last Byte,,
+1997,Aug,Bason Memory Warehouse,8192,33,70,2Mx32-? SIMM FPM [72 pin] @ $33,Pcmag,416,,,
+1997,Sep23,Miami Int'l,16384,58,,???,Pcmag,306,,,
+1997,Oct21,Miami Int'l,32768,109,,???,Pcmag,339,,,
+1997,Nov18,LA Trade,32768,104,,8Mx32-? SIMM EDO [72 pin] @ $104,Pcmag,315,,,
+1997,Dec16,Computer America Inc,32768,69,,8Mx32-? SIMM EDO [72 pin] @ $69,Pcmag,329,,,
+1998,Jan20,Computer America Inc,32768,69,,8Mx32-? SIMM EDO [72 pin] @ $69,Pcmag,277,,,
+1998,Feb24,Computer America Inc,32768,29,,8Mx32-? SIMM EDO [72 pin] @ $29,Pcmag,261,,,
+1998,Mar10,Computer America Inc,32768,31,,8Mx32-? SIMM EDO [72 pin] @ $31,Pcmag,302,,,
+1998,Apr21,Computer America Inc,32768,39,,8Mx32-? SIMM EDO [72 pin] @ $39,Pcmag,258,,,
+1998,May26,Computer America Inc,32768,38,,8Mx32-? SIMM EDO [72 pin] @ $38,Pcmag,294,,,
+1998,Jun30,Computer America Inc,32768,31,,8Mx32-? SIMM EDO [72 pin] @ $31,Pcmag,296,,,
+1998,Aug,Computer Services,32768,33,,4Mx64-? DIMM SDRAM @ $33,Pcmag,388,,,
+1998,Sep22,Computer Services,32768,31,,8Mx32-? SIMM EDO [72 pin] @ $31,Pcmag,279,,,
+1998,Oct20,Computer Services,32768,37,,8Mx32-? SIMM EDO [72 pin] @ $37,Pcmag,293,,,
+1998,Nov17,Discount Memory,32768,27,,8Mx32-? SIMM FPM [72 pin] @ $27,Pcmag,286,,,
+1998,Dec1,Discount Memory,32768,27,,8Mx32-? SIMM FPM [72 pin] @ $27,Pcmag,390,,,
+1999,Feb9,Memory Liquidators,32768,46,,8Mx32-? SIMM FPM [72 pin] @ $46,Pcmag,263,,,
+1999,Feb23,Discount Memory,32768,27,,8Mx32-? SIMM FPM [72 pin] @ $27,Pcmag,226,,,
+1999,Mar23,Tiger Systems,65536,79.99,,64 MB DIMM PC-100 @ $79.99,Pcmag,261,,,
+1999,Apr20,TigerDirect.com,65536,79.99,,64 MB DIMM PC-100 @ $79.99,Pcmag,277,,,
+1999,May25,TigerDirect.com,65536,54.99,,64 MB DIMM PC-100 @ $54.99,Pcmag,273,,,
+1999,Jul99,TigerDirect.com,131072,99.99,,128 MB DIMM PC-100 @ $99.99,Pcmag,323,,,
+1999,Sep21,www.crucial.com,131072,111.14,,128 MB DIMM PC-100 @ $111.14,Pcmag,222,,,
+1999,Oct19,www.crucial.com,65536,66.49,,64 MB DIMM PC-100 @ $66.49,Pcmag,219,,,
+1999,Nov16,www.crucial.com,131072,170.99,,128 MB DIMM PC-100 @ $170.99,Pcmag,247,,,
+1999,Dec1,www.crucial.com,131072,300.59,,128 MB DIMM PC-100 @ $300.59,Pcmag,287,,,
+2000,Jan18,Crucial Technology,65536,99.89,,64 MB DIMM PC-100 @ $99.89,Pcmag,14,,,
+2000,Feb18,Crucial Technology,65536,94.49,,64 MB DIMM PC-100 @ $94.49,Pcmag,18,,,
+2000,Mar21,StarSurplus.com,65536,69,,64 MB DIMM PC-100 @ $69,Pcmag,214,,,
+2000,Apr18,Crucial Technology,65536,53.99,,64 MB DIMM PC-100 @ $53.99,Pcmag,16,,,
+2000,May9,StarSurplus.com,131072,89,,128 MB DIMM PC-100 @ $89,Pcmag,254,,,
+2000,Jun27,Crucial Technology,65536,57.59,,64 MB DIMM PC-100 @ $57.59,Pcmag,18,,,
+2000,Jul,StarSurplus.com,131072,99,,128 MB DIMM PC-133 @ $99,Pcmag,228,,,
+2000,Aug,Crucial Technology,65536,53.99,,64 MB DIMM PC-100 @ $53.99,Pcmag,18,,,
+2000,Sep1,Crucial Technology,65536,68.39,,64 MB DIMM PC-133 @ $68.39,Pcmag,18,only advert for RAM,,
+2000,Oct3,Crucial Technology,65536,71.99,,64 MB DIMM PC-133 @ $71.99,Pcmag,18,only advert for RAM,,
+2000,Nov7,Crucial Technology,65536,71.99,,64 MB DIMM PC-133 @ $71.99,Pcmag,18,only advert for RAM,,
+2000,Dec5,Crucial Technology,65536,57.59,,64 MB DIMM PC-133 @ $57.59,Pcmag,19,discount for web purchase,,
+2001,Jan2,Crucial Technology,65536,47.69,,64 MB DIMM PC-133 @ $47.69,Pcmag,19,discount for web purchase,,
+2001,Feb6,Crucial Technology,131072,59.39,,128 MB DIMM PC-133 @ $59.39,Pcmag,90,discount for web purchase,,
+2001,Mar6,Crucial Technology,131072,59.39,,128 MB DIMM PC-133 @ $59.39,Pcmag,99,discount for web purchase,,
+2001,Apr3,StarSurplus.com,131072,49,,128 MB DIMM PC-133 @ $49,Pcmag,178,,,
+2001,May8,Crucial Technology,131072,49.49,,128 MB DIMM PC-100 @ $49.49,Pcmag,85,discount for web purchase,,
+2001,Jun12,StarSurplus.com,131072,39,,128 MB DIMM PC-133 @ $39,Pcmag,207,,,
+2001,Jul,Crucial Technology,262144,89.99,,256 MB DDR PC2100 @ $89.99,Pcmag,143,discount for web purchase,,
+2001,Jul,iMemoryMall.com,262144,69,,256 MB DIMM PC-133 @ $69,Pcmag,196,,,
+2001,Aug,StarSurplus.com,262144,49,,256 MB DIMM PC-133 @ $49,Pcmag,169,,,
+2001,Sep4,StarSurplus.com,262144,49,,256 MB DIMM PC-133 @ $49,Pcmag,215,,,
+2001,Oct16,Crucial Technology,131072,21.59,,128 MB DIMM PC-133 @ $21.59,Pcmag,60,discount for web purchase,,
+2001,Oct30,Crucial Technology,131072,18.89,,128 MB DIMM PC-133 @ $18.89,Pcmag,161,discount for web purchase,,
+2002,Feb12,Crucial Technology,262144,34.19,,256 MB DIMM PC-133 @ $34.19,Pcmag,47,,,
+2002,Feb12,Crucial Technology,262144,53.09,,256 MB DDR PC2100 @ $53.09,Pcmag,47,,,
+2002,Apr9,StarSurplus.com,524288,99,,512 MB DIMM PC-133 @ $99,Pcmag,133,,,
+2002,May7,StarSurplus.com,524288,99,,512 MB DIMM PC-133 @ $99,Pcmag,132,,,
+2002,Jun30,Crucial Technology,131072,42.29,,128 MB DIMM PC-133 @ $42.29,Pcmag,68,,,
+2002,Aug02,Crucial Technology,262144,49.49,,256 MB DIMM PC-133 @ $49.49,Pcmag,49,,,
+2002,Oct1,Crucial Technology,262144,49.49,,256 MB DIMM PC-133 @ $49.49,Pcmag,115,,,
+2003,Mar25,NewEgg.com,262144,45,,256 MB DIMM DDR-2100 @ $45,Pcmag,95,,,
+2003,Apr22,StarSurplus.com,524288,39,,512 MB DIMM PC-133 @ $39,Pcmag,133,,,
+2003,May27,NewEgg.com,524288,64.5,,512 MB DIMM DDR-2700 @ $64.50,Pcmag,95,,,
+2003,Jun17,HardDrive.com,524288,59,,512 MB DIMM PC-133 @ $59,Pcmag,137,,,
+2003,July,Crucial Technology,262144,33.99,,256 MB DIMM DDR-2100 @ $33.99,Pcmag,101,,,
+2003,Aug19,Crucial Technology,524288,65.99,,512 MB DIMM SDRAM @ $65.99,Pcmag,54,DDR at $72.99,,
+2003,Sep16,Crucial Technology,524288,72.99,,512 MB DIMM SDRAM @ $72.99,Pcmag,64,DDR at $86.99,,
+2003,Oct1,Crucial Technology,524288,75.99,,512 MB DIMM SDRAM @ $75.99,Pcmag,54,DDR at $86.99,,
+2003,Nov25,Crucial Technology,524288,81.99,,512 MB DIMM PC-133 @ $81.99,Pcmag,82,DDR at $85.99,,
+2003,Dec30,Crucial Technology,524288,84.99,,512 MB DIMM PC-133 @ $84.99,Pcmag,37,DDR at $85.99,,
+2004,Jan,NewEgg.com,524288,89,,512 MB DIMM DDR-3200 @ $89,Pcmag,143,,,
+2004,Feb17,NewEgg.com,524288,76,,512 MB DIMM DDR-3200 @ $76,Pcmag,78,GEIL,,
+2004,Mar16,NewEgg.com,524288,75,,512 MB DIMM DDR-3200 @ $75,Pcmag,115,GEIL,,
+2004,May4,NewEgg.com,524288,80,,512 MB DIMM DDR-3200 @ $76,Pcmag,19,GEIL,,
+2004,Jun8,NewEgg.com,524288,104,,512 MB DIMM DDR-3200 @ $104,Pcmag,19,GEIL,,
+2004,July,NewEgg.com,524288,90,,512 MB DIMM DDR-3200 @ $90,Pcmag,19,Kingston,,
+2005,Apr12,NewEgg.com,1048576,189,,2x512 MB DIMM DDR-3200 @ $90,Pcmag,24,Mushkin,,
+2005,Jun7,NewEgg.com,1048576,153,,1 GB DIMM DDR PC-3200Pro @ $153,Pcmag,20,Corsair,,
+2005,Nov8,NewEgg.com,1048576,119,,1 GB DIMM DDR2-533 @ $119,Pcmag,67,,,
+2005,Dec6,NewEgg.com,1048576,189,,2x512 MB DIMM DDR-4800 @ $189,Pcmag,139,,,
+2006,Mar21,NewEgg.com,2097152,229.81,,2x1 GB DIMM DDR-500 PC4000 @ $229.81,Pcmag,66,OCZ Gold,,
+2006,May25,NewEgg.com,2097152,148.99,,2x1 GB DIMM DDR2-667 @ $148.99 free shipping,Web,,OCZ Gold,,
+2006,Jul23,NewEgg.com,1048576,83.99,,1GB DIMM DDR2-667 @$83.99,Web,,Kingston,,
+2006,Sep1,NewEgg.com,2097152,149.99,,2x1 GB DIMM DDR2-667 @ $179.99-$30 rebate + 4.99 shipping,Web,,OCZ Gold,,
+2006,Oct5,NewEgg.com,2097152,179.98,,2x1 GB DIMM DDR2-667 @ $214.99-$40 rebate + 4.99 shipping,Web,,PQi,,
+2006,Nov25,NewEgg.com,2097152,199.99,,2x1 GB DIMM DDR2-800 @ $199.99 + free shipping,Web,,G. Skill,,
+2006,Dec21,NewEgg.com,1048576,93.98,,1GB DIMM DDR-400 @$88.99 + 4.99 shipping,Web,,Wintec,,
+2007,Jan28,NewEgg.com,1048576,83.98,,1GB DIMM DDR-400 @$78.99 + 4.99 shipping,Web,,PQi,,
+2007,Feb28,NewEgg.com,1048576,79.98,,1GB DIMM DDR2-800 @ $74.99 + $4.99 shipping,Web,,Patriot,,
+2007,Mar15,NewEgg.com,2097152,134.98,,2x1 GB DIMM DDR2-667 @ $129.99 + 4.99 shipping,Web,,Wintec,,
+2007,May7,NewEgg.com,2097152,94.99,5-5-5-18,2x1 GB DIMM DDR2-800 @ $94.99 + free shipping,Web,,A-Data,,
+2007,July9,NewEgg.com,2097152,78.98,cas 5,2x1 GB DIMM DDR2-667 @ $73.99 + 4.99 shipping,Web,,Super Talent,,
+2007,Sept30,NewEgg.com,2097152,71.98,cas 5,2x1 GB DIMM DDR2-800 @ $66.99 + 4.99 shipping,Web,,Mushkin,,
+2007,Oct16,NewEgg.com,2097152,65.98,5-5-5-18,2x1 GB DIMM DDR2-800 @ $60.99 + 4.99 shipping,Web,,A-Data,,
+2007,Nov10,NewEgg.com,2097152,49.98,,2x1 GB DIMM DDR2-667 @ $44.99 + 4.99 shipping,Web,,Kingston,,
+2007,Dec05,NewEgg.com,2097152,49.95,5-5-5-15,2x1 GB DIMM DDR2-800 @ $49.95 + free shipping,Web,,G.Skill,,
+2008,Jan18,NewEgg.com,4194304,94.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $94.99 + free shipping,Web,,G.Skill,,
+2008,Feb20,NewEgg.com,2097152,44.99,5-5-5-15,2x1 GB DIMM DDR2-800 @ $44.99 + free shipping,Web,,G.Skill,,
+2008,May18,NewEgg.com,2097152,44.99,5-5-5-15,2x1 GB DIMM DDR2-800 @ $44.99 + free shipping,Web,,G.Skill,,
+2008,Jul07,NewEgg.com,4194304,84.98,5-5-5-18,2x2 GB DIMM DDR2-800 @ $77.99 + 5.99 shipping,Web,,A-Data,,
+2008,Aug21,NewEgg.com,2097152,35.99,,2x1 GB DIMM DDR2-667 @ $35.99 + free shipping,Web,,Crucial,,
+2008,Sep25,NewEgg.com,2097152,29.99,cas 5,2x1 GB DIMM DDR2-667 @ $29.99 + free shipping,Web,,Crucial,,
+2008,Nov14,NewEgg.com,4194304,44.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $49.99 + free shipping,Web,,G.Skill,,
+2008,Dec14,NewEgg.com,4194304,39.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $39.99 + free shipping,Web,,G.Skill,,
+2009,Jan19,NewEgg.com,4194304,39.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $39.99 + free shipping,Web,,G.Skill,,
+2009,Feb14,NewEgg.com,2097152,21.99,cas 6,2x1 GB DIMM DDR2-800 @ $21.99 + free shipping,Web,,Kingston,,
+2009,Apr03,NewEgg.com,4194304,42.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $42.99 + free shipping,Web,,G.Skill,,
+2009,Jun03,NewEgg.com,4194304,46.99,5-5-5-18,2x2 GB DIMM DDR2-800 @ $46.99 + free shipping,Web,,Corsair,,
+2009,Jul02,NewEgg.com,4194304,44.99,5-5-5-18,2x2 GB DIMM DDR2-800 @ $44.99 + free shipping,Web,,Corsair,,
+2009,Aug20,NewEgg.com,4194304,51.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $51.99 + free shipping,Web,,G.Skill,,
+2009,Oct07,NewEgg.com,4194304,74.99,5-5-5-15,2x2 GB DIMM DDR2-1066 @ $74.99 + free shipping,Web,,Patriot,,
+2009,Dec12,NewEgg.com,2097152,41.99,,1x2 GB DIMM DDR2-800 @ $41.99 + free shipping,Web,,Crucial,,
+2010,Jan15,NewEgg.com,4194304,77.99,5-5-5-15,2x2 GB DIMM DDR2-800 @ $77.99 + free shipping,Web,,Wintec,,
+2010,Feb11,NewEgg.com,4194304,82.78,cas 5,2x2 GB DIMM DDR2-667 @ $79.99 + 2.99 shipping,Web,,Patriot,,
+2010,Mar10,NewEgg.com,2097152,39.99,cas 5,2x1 GB DIMM DDR2-800 @ $39.99 + free shipping,Web,,Wintec,,
+2010,May09,NewEgg.com,4194304,98.98,cas 5,2x2 GB DIMM DDR2-800 @ $92.99 + 5.99 shipping,Web,,PQi,,
+2010,Jul25,NewEgg.com,4194304,85.98,9-9-9-20,2x2 GB DIMM DDR3-1333 @ $84.99 + 0.99 shipping,Web,,,,
+2010,Aug26,NewEgg.com,4194304,89.99,9-9-9-24,2x2 GB DIMM DDR3-1333 @ $89.99 + free shipping,Web,,Patriot,,
+2010,Oct07,NewEgg.com,4194304,69.99,7-7-7-20,2x2 GB DIMM DDR3-1066 @ $69.99 + free shipping,Web,,OCZ Gold,,
+2010,Nov16,NewEgg.com,4194304,59.99,9-9-9-24,2x2 GB DIMM DDR3-1333 @ $59.99 + free shipping,Web,,Mushkin,,
+2010,Dec10,NewEgg.com,8388608,99.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $99.99 + free shipping,Web,,Mushkin,,
+2011,Jan21,NewEgg.com,4194304,40.98,cas 9,2x2 GB DIMM DDR3-1333 @ $40.98 + free shipping,Web,,A-Data,,
+2011,Feb12,NewEgg.com,4194304,41.99,cas 9,1x4 GB DIMM DDR3-1333 @ $41.99 + free shipping,Web,,Kingston,,
+2011,May06,NewEgg.com,8388608,81.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $81.99 + free shipping,Web,,GEIL,,
+2011,Jun22,NewEgg.com,8388608,69.99,cas 9,2x4 GB DIMM DDR3-1333 @ $69.99 + free shipping,Web,,Kingston,,
+2011,Sep02,NewEgg.com,4194304,21.99,cas 9,1x4 GB DIMM DDR3-1333 @ $21.99 + free shipping,Web,,Crucial,,
+2011,Oct17,NewEgg.com,8388608,41.99,cas 9,2x4 GB DIMM DDR3-1333 @ $41.99 + free shipping,Web,,PNY Optima,,
+2012,Jan12,NewEgg.com,8388608,39.99,9-9-9-24,2x4 GB DIMM DDR3-1600 @ $39.99 + free shipping,Web,,Corsair,,
+2012,Feb13,NewEgg.com,8388608,39.99,cas 9,2x4 GB DIMM DDR3-1600 @ $39.99 + free shipping,Web,,Kingston,,
+2012,Apr08,NewEgg.com,8388608,40.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $40.99 + free shipping,Web,,Patriot,,
+2012,May24,NewEgg.com,8388608,39.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $39.99 + free shipping,Web,,Team Elite,,
+2012,Aug20,NewEgg.com,16777216,77.99,cas 9,2x8 GB DIMM DDR3-1333 @ $77.99 + free shipping,Web,,Kingston,,
+2012,Sep21,NewEgg.com,16777216,64.79,10-10-10-28,2x8 GB DIMM DDR3-1600 @ $64.79 + free shipping,Web,,GEIL EVO Corsa,,
+2012,Nov17,NewEgg.com,8388608,29.99,cas 9,2x4 GB DIMM DDR3-1333 @ $29.99 + free shipping,Web,,Crucial Ballistix,,
+2013,Jan17,NewEgg.com,8388608,34.99,9-9-9-24,2x4 GB DIMM DDR3-1600 @ $34.99 + free shipping,Web,,Wintec One,,
+2013,Feb23,NewEgg.com,16777216,88.99,9-9-9-28,2x8 GB DIMM DDR3-1600 @ $88.99 + free shipping,Web,,GEIL EVO Corsa,,
+2013,May18,NewEgg.com,16777216,109.99,9-10-9-28,2x8 GB DIMM DDR3-1866 @ $109.99 + free shipping,Web,,GEIL,,
+2013,Jun30,NewEgg.com,8388608,49.99,cas 9,2x4 GB DIMM DDR3-1333 @ $49.99 + free shipping,Web,,,,
+2013,Aug09,NewEgg.com,8388608,59.99,9-9-9,2x4 GB DIMM DDR3-1333 @ $59.99 + free shipping,Web,,WINTEC value,,
+2013,Sep07,NewEgg.com,8388608,52.99,cas 10,1x8 GB DIMM DDR3-1600 @ $52.99 + free shipping,Web,,Crucial,,
+2013,Oct16,NewEgg.com,16777216,133.99,10-11-10-30,2x8 GB DIMM DDR3-1866 @ $133.99 + free shipping,Web,,Patriot Intel ExMLE,,
+2013,Nov10,NewEgg.com,8388608,69.99,cas 9,1x8 GB DIMM DDR3-1600 @ $69.99 + free shipping,Web,,Crucial Ballistix Sport,,
+2013,Dec23,NewEgg.com,16777216,129.99,cas 11,2x8 GB DIMM DDR3-1600 @ $129.99 + free shipping,Web,,Silicon Power,,
+2014,Feb08,NewEgg.com,4194304,38.99,cas 10,1x4 GB DIMM DDR3-1600 @ $38.99 + free shipping,Web,,Patriot Viper 3,,
+2014,Mar13,NewEgg.com,8388608,64.99,cas 9,2x4 GB DIMM DDR3-1600 @ $64.99 + free shipping,Web,,HyperX XMP,,
+2014,Apr10,NewEgg.com,4194304,29.99,11-11-11-28,1x4 GB DIMM DDR3-1600 @ $29.99 + free shipping,Web,,Team,,
+2014,Jun19,NewEgg.com,8388608,64.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $64.99 + free shipping,Web,,Team Elite,,
+2014,Aug02,NewEgg.com,8388608,69.99,9-9-9-24,2x4 GB DIMM DDR3-1600 @ $69.99 + free shipping,Web,,Team Vulcan,,
+2014,Sep13,NewEgg.com,8388608,69.99,9-9-9-24,2x4 GB DIMM DDR3-1600 @ $69.99 + free shipping,Web,,Team Vulcan,,
+2014,Nov11,NewEgg.com,4194304,34.99,11-11-11-30,1x4 GB DIMM DDR3-1600 @ $34.99 + free shipping,Web,,Pareema,,
+2015,Jan22,NewEgg.com,8388608,63.99,cas 10,1x8 GB DIMM DDR3-1866 @ $63.99 + free shipping,Web,,Hypexx Fury,,
+2015,Feb15,NewEgg.com,8388608,59.99,cas 11,2x4 GB DIMM DDR3-1600 @ $59.99 + free shipping,Web,,Crucial,,
+2015,Apr11,NewEgg.com,8388608,49.99,11-11-11-28,2x4 GB DIMM DDR3-1600 @ $49.99 + free shipping,Web,,Avexir,,
+2015,May15,NewEgg.com,16777216,91.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $91.99 + free shipping,Web,,Team Vulcan,,
+2015,Jul10,NewEgg.com,8388608,39.99,11-11-11-28,1x8 GB DIMM DDR3-1600 @ $39.99 + free shipping,Web,,Team Elite,,
+2015,Aug23,NewEgg.com,16777216,73.99,9-9-9-24,2x8 GB DIMM DDR3L-1600 @ $73.99 + free shipping,Web,,Mushkin Enhanced ECO2,,
+2015,Sep22,NewEgg.com,8388608,34.99,9-9-9-24,2x4 GB DIMM DDR3-1333 @ $34.99 + free shipping,Web,,Team Elite,,
+2015,Oct24,NewEgg.com,16777216,68.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $68.99 + free shipping,Web,,Team Dark,,
+2015,Nov21,NewEgg.com,16777216,62.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $62.99 + free shipping,Web,,V-Color OC,,
+2015,Dec18,NewEgg.com,16777216,59.99,10-10-10-27,2x8 GB DIMM DDR3-1600 @ $59.99 + free shipping,Web,,Team Vulcan,,
+2016,Feb14,NewEgg.com,16777216,58.99,9-9-9-24,2x8 GB DIMM DDR3L-1600 @ $58.99 + free shipping,Web,,Mushkin Ehanced Essentials,,
+2016,Apr11,NewEgg.com,16777216,49.99,9-9-9-24,2x8 GB DIMM DDR3L-1600 @ $49.99 + free shipping,Web,,Mushkin Ehanced Essentials,,
+2016,May18,NewEgg.com,16777216,48.99,15-15-15-35,2x8 GB DIMM DDR4-2133 @ $48.99 + free shipping,Web,,Team Elite Plus,,
+2016,Jun20,NewEgg.com,16777216,44.99,10-11-10-30,2x8 GB DIMM DDR3-1866 @ $44.99 + free shipping,Web,,V-Color OC Series,,
+2016,Jul22,NewEgg.com,16777216,49.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $49.99 + free shipping,Web,,Team Vulcan,,
+2016,Aug22,NewEgg.com,16777216,57.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $57.99 + free shipping,Web,,Team Vulcan,,
+2016,Oct15,NewEgg.com,33554432,114.99,15-15-15-35,2x16 GB DIMM DDR4-2133 @ $114.99 + free shipping,Web,,G. Skill Aegis,,
+2016,Nov15,NewEgg.com,16777216,67.99,15-15-15-36,2x8 GB DIMM DDR4-2133 @ $67.99 + free shipping,Web,,GEIL EVO Potenza,,
+2016,Dec21,NewEgg.com,16777216,74.99,16-16-16-36,2x8 GB DIMM DDR4-3000 @ $74.99 + free shipping,Web,,Team Dark,,
+2017,Jan15,NewEgg.com,16777216,79.99,16-18-18-38,2x8 GB DIMM DDR4-3000 @ $79.99 + free shipping,Web,,Team Vulcan,,
+2017,Mar12,NewEgg.com,16777216,89.99,11-11-11-27,2x8 GB DIMM DDR3-2133 @ $89.99 + free shipping,Web,,Ballistic Elite,,
+2017,May05,NewEgg.com,33554432,185.99,15-15-15-36,2x16 GB DIMM DDR4-2133 @ $185.99 + free shipping,Web,,GEIL Forza,,
+2017,Jun22,NewEgg.com,16777216,89.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $89.99 + free shipping,Web,,Team Dark,,
+2017,Jul22,NewEgg.com,16777216,95.99,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $95.99 + free shipping,Web,,Adata XPG V1.0,,
+2017,Sep19,NewEgg.com,8388608,49.99,9-9-9-24,2x4 GB DIMM DDR3-1600 @ $49.99 + free shipping,Web,,Team Vulcan,,
+2017,Oct27,NewEgg.com,16777216,109.99,,2x8 GB DIMM DDR3-1600 @ $109.99 + free shipping,Web,,Team Elite Plus,,
+2017,Dec12,NewEgg.com,16777216,115.99,,2x8 GB DIMM DDR3-1600 @ $115.99 + free shipping,Web,,Silicon Power,,
+2018,Feb14,NewEgg.com,16777216,108.99,,2x8 GB DIMM DDR3-1600 @ $108.99 + free shipping,Web,,Silicon Power,,
+2018,Mar23,NewEgg.com,16777216,113.99,,2x8 GB DIMM DDR3-1600 @ $113.99 + free shipping,Web,,Team Dark,,
+2018,May11,NewEgg.com,16777216,111.98,,2x8 GB DIMM DDR3-1600 @ $110.99 + $0.99 shipping,Web,,Team Dark,,
+2018,Jun19,NewEgg.com,16777216,104.99,11-11-11-28,2x8 GB DIMM DDR3-1600 @ $104.99 + free shipping,Web,,Adata XPG V1.0,,
+2018,Jul08,NewEgg.com,16777216,110.98,9-9-9-24,2x8 GB DIMM DDR3-1600 @ $109.99 + $0.99 shipping,Web,,Team Vulcan,,
+2018,Aug24,NewEgg.com,16777216,100.98,,2x8 GB DIMM DDR3-1600 @ $99.99 + $0.99 shipping,Web,,Team Dark,,
+2018,Sep20,NewEgg.com,16777216,89.99,11-11-11-28,2x8 GB DIMM DDR3-1600 @ $89.99 + free shipping,Web,,G.Skill,,
+2018,Nov11,NewEgg.com,16777216,82.99,11-11-11-28,2x8 GB DIMM DDR3L-1600 @ $82.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2018,Dec16,NewEgg.com,8388608,37.99,,1x8 GB DIMM DDR3-1333 @ $37.99 + free shipping,Web,,G.Skill Value Series,,
+2019,Jan17,NewEgg.com,16777216,69.99,11-11-11-28,2x8 GB DIMM DDR3L-1600 @ $69.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2019,Feb11,NewEgg.com,16777216,69.99,11-11-11-28,2x8 GB DIMM DDR3L-1600 @ $69.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2019,Mar17,NewEgg.com,16777216,68.99,11-11-11-28,2x8 GB DIMM DDR3L-1600 @ $68.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2019,Apr21,NewEgg.com,16777216,60.98,11-11-11-28,2x8 GB DIMM DDR3-1600 @ $59.99 + $0.99 shipping,Web,,G.Skill Value,,
+2019,May20,NewEgg.com,8388608,27.99,CL 11,1x8 GB DIMM DDR3-1600 @ $27.99 + free shipping,Web,,Patriot Signature Line,,
+2019,Jun19,NewEgg.com,8388608,25.99,17-17-17-39,1x8 GB DIMM DDR4-2400 @ $25.99 + free shipping,Web,,OLOy MD4U0824171BSA,,
+2019,Jul18,NewEgg.com,16777216,44.99,17-17-17-39,2x8 GB DIMM DDR4-2400 @ $44.99 + free shipping,Web,,OLOy  ,,
+2019,Aug17,NewEgg.com,16777216,44.99,17-17-17-39,2x8 GB DIMM DDR4-2400 @ $44.99 + free shipping,Web,,OLOy  ,,
+2019,Sep16,NewEgg.com,16777216,53.99,16-18-18-35,2x8 GB DIMM DDR4-2666 @ $53.99 + free shipping,Web,,OLOy,,
+2019,Oct18,NewEgg.com,33554432,99.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $99.99 + free shipping,Web,,G.Skill Aegis,,
+2019,Nov14,NewEgg.com,33554432,94.99,16-18-18-36,2x16 GB DIMM DDR4-3000 @ $94.99 + free shipping,Web,,Geil Evo Potenza AMD,,
+2019,Dec17,NewEgg.com,33554432,92.99,19-18-18-38,2x16 GB DIMM DDR4-3000 @ $92.99 + free shipping,Web,,OLOy,,
+2020,Jan20,NewEgg.com,16777216,47.99,17-17-17-39,2x8 GB DIMM DDR4-2400 @ $47.99 + free shipping,Web,,OLOy,,
+2020,Feb17,NewEgg.com,33554432,99.99,17-17-17-39,2x16 GB DIMM DDR4-2400 @ $99.99 + free shipping,Web,,OLOy,,
+2020,Mar23,NewEgg.com,33554432,114.99,17-17-17-39,2x16 GB DIMM DDR4-2400 @ $114.99 + free shipping,Web,,OLOy,,
+2020,Apr23,NewEgg.com,16777216,57.99,16-18-18-36,1x16 GB DIMM DDR4-3000 @ $57.99 + free shipping,Web,,OLOy,,
+2020,May23,NewEgg.com,33554432,114.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $114.99 + free shipping,Web,,G.Skill,,
+2020,Jun21,NewEgg.com,33554432,104.99,15-15-15-39,2x16 GB DIMM DDR4-2400 @ $104.99 + free shipping,Web,,G.Skill X series,,
+2020,Jul18,NewEgg.com,33554432,94.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $94.99 + free shipping,Web,,G.Skill Aegis,,
+2020,Aug19,NewEgg.com,33554432,89.99,22-22-22-52,1x32 GB DIMM DDR4-3200 @ $89.99 + free shipping,Web,,Team Elite,,
+2020,Sep20,NewEgg.com,33554432,91.99,16-18-18-36,2x16 GB DIMM DDR4-2666 @ $91.99 + free shipping,Web,,OLOy,,
+2020,Oct17,NewEgg.com,33554432,89.99,16-18-18-36,2x16 GB DIMM DDR4-3000 @ $89.99 + free shipping,Web,,GEIL Evo Potenza,,
+2020,Nov19,NewEgg.com,33554432,94.99,20-22-22-46,2x16 GB DIMM DDR4-3200 @ $89.99 + free shipping,Web,,Team T-Force,,
+2020,Dec21,NewEgg.com,33554432,97.99,16-18-18-38,2x16 GB DIMM DDR4-3000 @ $97.99 + free shipping,Web,,OLOy,,
+2021,Feb14,NewEgg.com,33554432,109.99,16-18-18-38,2x16 GB DIMM DDR4-3000 @ $109.99 + free shipping,Web,,G.Skill Aegis,,
+2021,Apr17,NewEgg.com,67108864,259.99,19-19-19-43,2x32 GB DIMM DDR4-2666 @ $259.99 + free shipping,Web,,G.Skill Value Series,,
+2021,May17,NewEgg.com,67108864,229.99,19-19-19-43,2x32 GB DIMM DDR4-2666 @ $229.99 + free shipping,Web,,G.Skill Value Series,,
+2021,Jul11,NewEgg.com,8388608,31.99,cas 11,1x8 GB DIMM DDR3-1600 @ $31.99 + free shipping,Web,,Patriot Signature Line,,
+2021,Aug16,NewEgg.com,33554432,119.99,15-15-15-36,2x16 GB DIMM DDR4-2133 @ $119.99 + free shipping,Web,,G.Skill Ripjaws V,,
+2021,Sep18,NewEgg.com,16777216,51.99,19-19-19-43,1x16 GB DIMM DDR4-2666 @ $51.99 + free shipping,Web,,G.Skill Aegis,,
+2021,Oct20,NewEgg.com,16777216,48.99,17-17-17-39,1x16 GB DIMM DDR4-2400 @ $48.99 + free shipping,Web,,G.Skill Aegis,,
+2021,Dec15,NewEgg.com,33554432,84.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $84.99 + free shipping,Web,,G.Skill Aegis,,
+2022,Jan19,NewEgg.com,33554432,92.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $92.99 + free shipping,Web,,G.Skill Aegis,,
+2022,Feb17,NewEgg.com,33554432,93.99,19-19-19-43,2x16 GB DIMM DDR4-2666 @ $93.99 + free shipping,Web,,G.Skill Aegis,,
+2022,Mar18,NewEgg.com,33554432,99.99,16-20-20-40,2x16 GB DIMM DDR4-3200 @ $99.99 + free shipping,Web,,Team T-Force Vulcan TUF G.A.,,
+2022,Apr23,NewEgg.com,16777216,50.98,17-17-17-39,1x16 GB DIMM DDR4-2400 @ $49.99 + $0.99 shipping,Web,,G.Skill Aegis,,
+2022,May15,NewEgg.com,33554432,87.99,cas 22,1x32 GB SO-DIMM DDR4-3200 @87.99 + free shipping,Web,,G.Skill Ripjaws  ,,
+2022,Jun18,NewEgg.com,33554432,84.97,cas 22,2x16 GB SO-DIMM DDR4-3200 @84.97 + free shipping,Web,,Silicon Power,,
+2022,Aug20,NewEgg.com,33554432,74.99,cas 22,1x32 GB SO-DIMM DDR4-3200 @74.99 + free shipping,Web,,OLOy,,
+2022,Sep16,NewEgg.com,33554432,72.99,cas 19,1x32 GB SO-DIMM DDR4-2666 @72.99 + free shipping,Web,,Silicon Power,,
+2022,Oct18,NewEgg.com,33554432,72.99,cas 19,2x16 GB SO-DIMM DDR4-2666 @72.99 + free shipping,Web,,Silicon Power,,
+2022,Nov05,NewEgg.com,33554432,69.99,cas 19,1x32 GB SO-DIMM DDR4-2666 @69.99 + free shipping,Web,,Silicon Power,,
+2022,Dec18,NewEgg.com,33554432,68.99,17-17-17-39,2x16 GB DIMM DDR4-2400 @ $68.99 + free shipping,Web,,G.Skill Aegis,,
+2023,Jan18,NewEgg.com,33554432,63.98,cas 19,1x32 GB SO-DIMM DDR4-2666 @61.99 + $1.99 shipping,Web,,G.Skill Ripjaws,,
+2023,Feb18,NewEgg.com,67108864,114.99,cas 22,2x32 GB SO-DIMM DDR4-3200 @114.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2023,Mar18,NewEgg.com,67108864,114.99,22-22-22-52,2x32 GB SO-DIMM DDR4-3200 @114.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2023,May06,NewEgg.com,67108864,97.99,cas 22,2x32 GB SO-DIMM DDR4-3200 @97.99 + free shipping,Web,,Team Elite,,
+2023,Jun17,NewEgg.com,67108864,93.99,19-19-19-43,2x32 GB DIMM DDR4-2666 @ $93.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2023,Jul18,NewEgg.com,33554432,45.99,,2x16 GB SO-DIMM DDR4-3200 @ $45.99,Web,,Team T-Create Classic,,
+2023,Sep19,NewEgg.com,67108864,92.99,16-19-19-38,2x32 GB DIMM DDR4-3200 @ $92.99 + free shipping,Web,,Mushkin Enhanced Redline Stiletto,,
+2023,Oct20,NewEgg.com,67108864,89.99,22-22-22-52,2x32 GB SO-DIMM DDR4-3200 @89.99 + free shipping,Web,,Team T-Create Classic,,
+2023,Nov16,NewEgg.com,33554432,41.99,16-17-17-36,2x16 GB SO-DIMM DDR4-2666 @41.99 + free shipping,Web,,Mushkin Enhanced Redline,,
+2024,Jan14,NewEgg.com,67108864,102.99,22-22-22-52,2x32 GB SO-DIMM DDR4-3200 @102.99 + free shipping,Web,,Team Elite  ,,
+2024,Feb21,NewEgg.com,67108864,109.99,22-22-22-52,2x32 GB SO-DIMM DDR4-3200 @109.99 + free shipping,Web,,Mushkin Enhanced Essentials,,
+2024,Mar21,NewEgg.com,67108864,99.99,16-18-18-35,2x32 GB DIMM DDR4-2666 @99.99 + free shipping,Web,,Corsair Vengence LPX,,
+2024,May16,NewEgg.com,33554432,52.99,22-22-22-52,2x16 GB DIMM DDR4-3200 @ $52.99 + free shipping,Web,,Team Elite,,
+2024,Jul28,NewEgg.com,67108864,99.99,20-26-26-46,2x32 GB DIMM DDR4-3600 @99.99 + free shipping,Web,,Patriot Viper Elite,,
+2024,Sep15,NewEgg.com,67108864,89.99,20-26-26-46,2x32 GB DIMM DDR4-3600 @ $89.99 + free shipping,Web,,Patriot Viper Elite,,
+2024,Nov17,NewEgg.com,33554432,54.99,16-20-20-38,2x16 GB DIMM DDR4-3200 @ $54.99 + free shipping,Web,,G.Skill Aegis,,
+2025,Jan20,NewEgg.com,33554432,74.99,16-20-20-38,2x16 GB DIMM DDR4-3200 @ $74.99 + free shipping,Web,,G.Skill Aegis,,
+2025,Mar18,NewEgg.com,33554432,89.99,cas 30,2x16 GB DIMM DDR5-6000 @ $89.99 + free shipping,Web,,G.Skill Flare X5,,
+2025,May15,NewEgg.com,33554432,51.99,cas 22,2x16 GB DIMM DDR4-3200 @ $51.99 + free shipping,Web,,Team Elite,,
+2025,Jul17,NewEgg.com,33554432,94.99,cas 30,2x16 GB DIMM DDR5-6000 @ $94.99 + free shipping,Web,,G.Skill Flare X5,,
+2025,Sep18,NewEgg.com,33554432,99.99,cas 30,2x16 GB DIMM DDR5-6000 @ $99.99 + free shipping,Web,,Corsair Vengeance,,
+2025,Oct20,NewEgg.com,33554432,184.99,cas 30,2x16 GB DIMM DDR5-6000 @ $184.99 + free shipping,Web,,Corsair Vengeance,,
+2025,Nov15,NewEgg.com,33554432,309.99,cas 40,2x16 GB DIMM DDR5-4800 @ $309.99 + free shipping,Web,,Corsair Vengeance,,
+2025,Nov26,NewEgg.com,33554432,410.99,cas 30,2x16 GB DIMM DDR5-6000 @ $410.99 + free shipping,Web,,G.Skill Flare X5,,
+2025,Dec16,NewEgg.com,33554432,470.99,cas 30,2x16 GB DIMM DDR5-6000 @ $470.99 + free shipping,Web,,G.Skill Flare X5,,
+2025,Dec16,NewEgg.com,67108864,469.99,cas 36,2x32 GB DIMM DDR4-3600 @ $469.99 + free shipping,Web,,Patriot Viper Elite,,
+2026,Jan08,NewEgg.com,33554432,325.99,cas 40,1x32 GB DIMM DDR5-5200 @ $325.99 + free shipping,Web,,Patriot Viper Venom,,
+2026,Jan15,NewEgg.com,33554432,180.99,cas 22,2x16 GB DIMM DDR4-3200 @ $180.99 + free shipping,Web,,Corsair Vengeance LPX,,
+2026,Jan20,NewEgg.com,33554432,164.99,cas 22,2x16 GB DIMM DDR4-3200 @ $164.99 + free shipping,Web,,G.Skill Aegis,,
+2026,Feb05,NewEgg.com,33554432,359.99,cas 30,2x16 GB DIMM DDR5-6000 @ $359.99 + free shipping,Web,,Corsair Vengeance,,
+2026,Feb14,NewEgg.com,33554432,249.99,cas 22,2x16 GB DIMM DDR4-3200 @ $249.99 + free shipping,Web,,G.Skill Aegis,,
+2026,Feb21,NewEgg.com,33554432,389.99,cas 30,2x16 GB DIMM DDR5-6000 @ $389.99 + free shipping,Web,,G.Skill Flare X5,,
+2026,Mar03,NewEgg.com,33554432,409.99,cas 30,2x16 GB DIMM DDR5-6000 @ $409.99 + free shipping,Web,,Corsair Vengeance,,
+2026,Mar10,NewEgg.com,67108864,749.99,cas 30,2x32 GB DIMM DDR5-6000 @ $749.99 + free shipping,Web,,G.Skill Flare X5,,
+2026,Mar15,NewEgg.com,33554432,299.99,cas 22,2x16 GB DIMM DDR4-3200 @ $299.99 + free shipping,Web,,Corsair Vengeance LPX,,
+2026,Mar25,NewEgg.com,33554432,449.99,cas 30,2x16 GB DIMM DDR5-6000 @ $449.99 + free shipping,Web,,Corsair Vengeance,,
