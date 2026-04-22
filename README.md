@@ -154,7 +154,7 @@ Dilakukan inspeksi menggunakan `df.info()` untuk memahami tipe data setiap kolom
 - Dataset terdiri dari 438 entri dengan 12 variabel.
 - Variabel numerik meliputi `year`, `Size in Kbyte`, dan `Cost in USD`.
 - Variabel kategorikal seperti `Company`, `Memory Type`, dan `day_month` bertipe objek.
-- Kolom `Speed in nanosec` bertipe objek meskipun seharusnya numerik — mengindikasikan adanya inkonsistensi format data.
+- Kolom `Speed in nanosec` bertipe objek meskipun seharusnya numerik -  mengindikasikan adanya inkonsistensi format data.
 - Beberapa kolom memiliki jumlah nilai non-null yang jauh di bawah 438, menandakan adanya missing values yang perlu ditangani.
 
 ---
@@ -203,8 +203,8 @@ Analisis statistik deskriptif dilakukan terhadap empat variabel numerik utama: `
 
 **Temuan utama:**
 
-- **`Cost in USD`**: Rata-rata **$196.58**, maksimum **$4.680**, standar deviasi besar (339.14) — distribusi sangat tersebar dan dipengaruhi outlier.
-- **`Size in Kbyte`**: Rata-rata >10 juta KB (~10 GB), nilai maksimum 67 juta KB (64 GB) — mencerminkan perkembangan dramatis kapasitas lintas generasi.
+- **`Cost in USD`**: Rata-rata **$196.58**, maksimum **$4.680**, standar deviasi besar (339.14) -  distribusi sangat tersebar dan dipengaruhi outlier.
+- **`Size in Kbyte`**: Rata-rata >10 juta KB (~10 GB), nilai maksimum 67 juta KB (64 GB) -  mencerminkan perkembangan dramatis kapasitas lintas generasi.
 - **`Cost_per_KB` dan `Cost_per_MB`**: Distribusi sangat tidak merata dengan perbedaan ekstrem antara nilai minimum dan maksimum, mencerminkan data historis awal yang sangat mahal dibandingkan teknologi modern.
 
 > **Catatan:** Distribusi variabel numerik bersifat tidak normal dan sangat dipengaruhi outlier, sehingga analisis lanjutan memerlukan transformasi data logaritmik.
@@ -213,7 +213,7 @@ Analisis statistik deskriptif dilakukan terhadap empat variabel numerik utama: `
 
 ### 5.5 Visualisasi Data
 
-#### a. Distribusi Harga Memori — Histogram + KDE
+#### a. Distribusi Harga Memori -  Histogram + KDE
 
 Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmik (log₁₀).
 
@@ -222,7 +222,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### b. Tren Harga Per KB Sepanjang Tahun — Line Chart (Skala Log)
+#### b. Tren Harga Per KB Sepanjang Tahun -  Line Chart (Skala Log)
 
 - Penurunan harga dari sekitar **$401.408/KB** (1957) menjadi mendekati nol di era modern.
 - Tren eksponensial selaras dengan Hukum Moore.
@@ -230,7 +230,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### c. Jumlah Data per Dekade — Bar Chart
+#### c. Jumlah Data per Dekade -  Bar Chart
 
 - Data paling sedikit dari 1950-an dan 1960-an (2 entri masing-masing).
 - Puncak data pada **1990-an (85 entri)**, diikuti 2010-an (83) dan 2000-an (76).
@@ -238,7 +238,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### d. Top 10 Perusahaan — Horizontal Bar Chart
+#### d. Top 10 Perusahaan -  Horizontal Bar Chart
 
 - **NewEgg.com** mendominasi dengan **193 entri** (>44% dari total data).
 - Kontributor lain jauh lebih kecil: *Crucial Technology* (23), *Unknown* (14).
@@ -246,7 +246,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### e. Distribusi Harga per Dekade — Box Plot
+#### e. Distribusi Harga per Dekade -  Box Plot
 
 - Median harga menurun konsisten dari dekade ke dekade.
 - Variasi terlebar pada 1970-an dan 1980-an, mencerminkan diversifikasi teknologi.
@@ -254,7 +254,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### f. Hubungan Ukuran vs Harga — Scatter Plot (Skala Log)
+#### f. Hubungan Ukuran vs Harga -  Scatter Plot (Skala Log)
 
 - Korelasi Pearson (log-log): **r = -0.281** (p < 0.001).
 - Korelasi negatif lemah: kapasitas lebih besar → harga per unit lebih rendah (*economies of scale*).
@@ -276,7 +276,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### h. Deteksi Outlier — Z-Score (|Z| > 3)
+#### h. Deteksi Outlier -  Z-Score (|Z| > 3)
 
 - Sebagian besar outlier berasal dari **1960-an hingga 1970-an** dengan harga sangat ekstrem.
 - Outlier ini memiliki makna historis penting dan tidak selalu perlu dihapus dalam konteks analisis longitudinal.
@@ -291,7 +291,7 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 ---
 
-#### j. Distribusi Ukuran Memori per Dekade — Violin Plot
+#### j. Distribusi Ukuran Memori per Dekade -  Violin Plot
 
 - Distribusi bergeser ke nilai lebih tinggi secara konsisten dari dekade ke dekade.
 - Era modern (2000-an ke atas): distribusi lebih rapat, mencerminkan standarisasi kapasitas produksi massal.
@@ -302,13 +302,13 @@ Distribusi harga divisualisasikan pada dua skala: skala asli dan skala logaritmi
 
 Tiga insight utama dikuantifikasi secara eksplisit:
 
-**Insight 1 — Faktor penurunan harga:**
+**Insight 1 -  Faktor penurunan harga:**
 Harga per KB di tahun 1957 dibandingkan dengan harga di era 2020-an menghasilkan faktor penurunan yang mencapai **jutaan kali lipat**.
 
-**Insight 2 — Dekade dengan penurunan terbesar:**
+**Insight 2 -  Dekade dengan penurunan terbesar:**
 Analisis *percentage change* median harga per KB antar dekade mengidentifikasi dekade dengan penurunan harga paling signifikan dalam sejarah industri memori.
 
-**Insight 3 — Produk termahal vs. termurah:**
+**Insight 3 -  Produk termahal vs. termurah:**
 Identifikasi produk dengan harga tertinggi dan terendah dalam dataset, beserta informasi tahun, perusahaan, kapasitas, dan tipe memori.
 
 ---
@@ -317,13 +317,13 @@ Identifikasi produk dengan harga tertinggi dan terendah dalam dataset, beserta i
 
 | No | Temuan | Implikasi |
 |---|---|---|
-| 1 | **Penurunan harga eksponensial** — Harga/KB turun jutaan kali lipat dari 1957 ke 2020-an | Mengkonfirmasi Hukum Moore dalam konteks harga memori |
-| 2 | **Distribusi sangat right-skewed** — Harga memiliki long tail yang signifikan | Transformasi log diperlukan untuk analisis statistik yang valid |
-| 3 | **IBM mendominasi era awal (1950–1970)** — Pasar mulai beragam pada 1980-an | Mencerminkan transisi dari monopoli ke pasar kompetitif |
-| 4 | **Kapasitas meningkat drastis** — Dari <1 KB di 1950-an menjadi ratusan GB di era modern | Konsisten dengan tren *semiconductor scaling* global |
-| 5 | **Outlier terkonsentrasi di era 1957–1970** — Harga sangat tinggi pada masa awal | Data historis awal memiliki karakteristik berbeda secara statistik |
+| 1 | **Penurunan harga eksponensial** -  Harga/KB turun jutaan kali lipat dari 1957 ke 2020-an | Mengkonfirmasi Hukum Moore dalam konteks harga memori |
+| 2 | **Distribusi sangat right-skewed** -  Harga memiliki long tail yang signifikan | Transformasi log diperlukan untuk analisis statistik yang valid |
+| 3 | **IBM mendominasi era awal (1950–1970)** -  Pasar mulai beragam pada 1980-an | Mencerminkan transisi dari monopoli ke pasar kompetitif |
+| 4 | **Kapasitas meningkat drastis** -  Dari <1 KB di 1950-an menjadi ratusan GB di era modern | Konsisten dengan tren *semiconductor scaling* global |
+| 5 | **Outlier terkonsentrasi di era 1957–1970** -  Harga sangat tinggi pada masa awal | Data historis awal memiliki karakteristik berbeda secara statistik |
 | 6 | **Korelasi waktu–kapasitas sangat kuat (r = 0.714)** | Waktu adalah prediktor utama kapasitas memori |
-| 7 | **NewEgg.com menyumbang >44% data** — Potensi bias sumber data | Hasil analisis harus diinterpretasikan dengan mempertimbangkan ketidakseimbangan ini |
+| 7 | **NewEgg.com menyumbang >44% data** -  Potensi bias sumber data | Hasil analisis harus diinterpretasikan dengan mempertimbangkan ketidakseimbangan ini |
 
 ---
 
